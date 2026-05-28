@@ -1,4 +1,6 @@
-# Monitoreo de Exportaciones de Uruguay: Concentración y Destinos Estratégicos
+# Monitoreo de Exportaciones de bienes de Uruguay: Concentración y Destinos Estratégicos
+
+**Fuente de datos:** Elaboración propia en base a los registros oficiales de comercio exterior provistos por Uruguay XXI.
 
 Dashboard interactivo en Power BI para el análisis de la inserción internacional y diversificación de mercados de Uruguay, utilizando datos oficiales de comercio exterior.
 
