@@ -15,4 +15,4 @@ Este proyecto prioriza las buenas prácticas de arquitectura en Power BI:
 * **Índice Herfindahl-Hirschman (HHI):** Calculado dinámicamente sobre la cuota porcentual de exportaciones por mercado destino para medir el nivel de diversificación o vulnerabilidad (< 1500: Diversificado, > 2500: Concentrado).
 * **Participación por Bloque y Régimen:** Apertura analítica que contrasta el volumen operado en Aduana Directa (AD) frente a Zonas Francas (ZF).
 ![Dashboard Hoja 1](https://github.com/rodrigoferetti/Uruguay-Comercio-Exterior-Dashboard/blob/main/Vision%20General.PNG?raw=true)
-![Dashboard Hoja 2]([ruta_de_la_imagen_2.png](https://github.com/rodrigoferetti/Uruguay-Comercio-Exterior-Dashboard/blob/main/Enfoque%20Geopolitico.PNG?raw=true))
+![Dashboard Hoja 2](https://github.com/rodrigoferetti/Uruguay-Comercio-Exterior-Dashboard/blob/main/Enfoque%20Geopolitico.PNG?raw=true)
